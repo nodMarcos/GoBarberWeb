@@ -5,17 +5,20 @@ Como cabelereiro você pode: gerenciar seus agendamentos.
 
 Tela inicial
 
-** Imagem **
+![image](https://user-images.githubusercontent.com/57508196/110375280-88fd0180-8030-11eb-9070-ab078f47e47e.png)
+
+![image](https://user-images.githubusercontent.com/57508196/110374941-0f651380-8030-11eb-9d1a-95c5c9be5b35.png)
+
 
 Ao realizar o cadastro, você será redirecionado para o dashboard, onde poderá ver seus agendamentos, e um calendario com dias disponiveis para atendimentos.
 
 Dashboard
 
-** Imagem **
+![image](https://user-images.githubusercontent.com/57508196/110375360-a205b280-8030-11eb-8d56-55194b44bf25.png)
 
 Além de poder alterar os dados do seu perfil, como avatar, email, senha e etc.
 
-** Imagem **
+![image](https://user-images.githubusercontent.com/57508196/110375438-b8ac0980-8030-11eb-961b-1525686c9fa2.png)
 
 A GoBarber também possui sua versão mobile. Você pode obter acesso por aqui.
 
