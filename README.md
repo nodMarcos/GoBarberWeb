@@ -28,15 +28,8 @@ Para utilizar essa versão pública você deve executar alguns passos:
 
 Você deve instalar as seguintes ferramentas:
 
-- Node JS;
+- NodeJS;
 - NPM/Yarn;
 - ReactJS;
 
 Para baixar a API, clique aqui e siga os passos indicados no repositório da API para o uso correto.
-
-
-
-
-
-
-
